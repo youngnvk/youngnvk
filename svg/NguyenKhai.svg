@@ -79,9 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-                    Hi!<br/>I'm Nguyen Khai Dev from KMA.
-                    <br> I am 20 years old, hometown: Hanoi, Vietnam
-                    <br> My hobbies: Coding, Watching movies, Traveling,...
+          Hi Aliens!<br/>I'm Nguyen Khai Dev from KMA.
         </div>
         <div class="skills">
           <div class="skills_icon">
