@@ -79,7 +79,9 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Nguyen Khai Dev from KMA.
+          Hi!<br/>I'm Nguyen Khai Dev from KMA.
+          <br>I was born in 2004 and I am 20 years old now. 
+          <br>I live in Hanoi, Vietnam.
         </div>
         <div class="skills">
           <div class="skills_icon">
