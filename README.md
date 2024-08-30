@@ -33,10 +33,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="NguyenKhaidev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngnvk&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="NguyenKhaidev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=youngnvk&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
@@ -47,18 +47,18 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://wwww.facebook.com/" target="blank">
-    <img width="90" height="90" src="/images/logo.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="/images/logo.png" alt="NguyenKhaiDev-blog" />
   </a>
   <a href="https://facebook.com/youngnvk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NguyenKhaidev-facebook" />
   </a>
   <a href="https://www.youtube.com/@youngnvk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="NguyenKhaidev-youtube" />
   </a>
   <a href="https://instagram.com/youngnvk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tNguyenKhaidev-instagram" />
   </a>
   <a href="mailto:Khaicuon18@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="NguyenKhaidev-email" />
   </a>
   </div>
