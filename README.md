@@ -14,6 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=redux&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="My SQL logo" title="My SQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
